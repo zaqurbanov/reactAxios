@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.table{
+  width: 100%;
+}
+
+input{
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.modal-body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.btngrp{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}

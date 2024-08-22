@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "482c",
+      "product": "PR1",
+      "brand": "br1",
+      "price": "55",
+      "stock": "25"
+    },
+    {
+      "id": "ea96",
+      "product": "pr2",
+      "brand": "br2",
+      "price": "88",
+      "stock": "66"
+    }
+  ]
+}
